@@ -9,3 +9,6 @@ theme of the simple log filtering app is the focus.  The focus is on
 language use, and helpful critical feedback that helps us improve our
 exercise is of course welcome, and will be cited at the bottom of the
 readme, or somewhere else which is obvious.
+
+Note this is intended to be a simple example where all three languages
+are mixed in the same directory for easy cross reference.
